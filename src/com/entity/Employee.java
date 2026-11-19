@@ -25,6 +25,11 @@ public class Employee {
 		this.empDep = empDep;
 	}
 
+	
+	void Display()
+	{
+		System.out.println("Hi   Shubham...");
+	}
 	public int getEmpId()
 	{
 		return empId;
