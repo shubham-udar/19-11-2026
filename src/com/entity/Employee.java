@@ -26,10 +26,7 @@ public class Employee {
 	}
 
 	
-	void Display()
-	{
-		System.out.println("Hi   Shubham...");
-	}
+	
 	public int getEmpId()
 	{
 		return empId;
